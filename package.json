@@ -31,6 +31,11 @@
         "label": "Null Existence",
         "uiTheme": "vs-dark",
         "path": "./themes/Null Existence-color-theme.json"
+      },
+      {
+        "label": "Divine Collapse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Divine Collapse-color-theme.json"
       }
     ]
   }
