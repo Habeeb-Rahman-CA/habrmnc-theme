@@ -7,7 +7,7 @@
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Habeebu-Rahman-CA/habrmnc-theme"
+    "url": "https://github.com/Habeebu-Rahman-CA/vscode-theme"
   },
   "engines": {
     "vscode": "^1.70.0"

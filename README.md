@@ -1,44 +1,57 @@
 <div align="center">
-  <h1>🏯 Malevolent Shrine - Habrmnc</h1>
-  <p><i>"Ha ha ha, yowaimo!"</i></p>
-  <p>A minimalist, dark theme inspired by Ryomen Sukuna's Domain Expansion. Precision. Power. Perfection.</p>
+  <h1>🏯 Habrmnc Theme Collection ♾️</h1>
+  <p><i>"The ultimate collection of domain-expanding themes for Visual Studio Code."</i></p>
+  <p>Precision. Power. Perfection. Four distinct aesthetics, one legendary extension.</p>
 </div>
+
+---
+
+## ⛩️ The Domains ⛩️
+
+Explore the four unique visual identities included in this extension:
+
+### 🔴 Malevolent Shrine (Ryomen Sukuna)
+A high-intensity, aggressive dark theme.
+- **Background**: Deep Ink Black (`#0a0a0a`)
+- **Accents**: Crimson Red (`#a62a2a`) & Cursed Gold (`#d4a017`)
+- **Vibe**: Power and dominance. Sharp contrasts for maximum focus.
+
+### 🔵 Infinite Void (Satoru Gojo)
+A sophisticated, high-end theme with deep purple and blue tones.
+- **Background**: Deep Void Purple (`#050008`)
+- **Accents**: Six-Eyes Blue (`#a0c0ff`) & Hollow Purple (`#bc9ecc`)
+- **Vibe**: Endless perception. Sleek, modern, and easy on the eyes.
+
+### ⚪ Divine Collapse (Celestial Destruction)
+A heavenly yet shattering aesthetic with electric highlights.
+- **Background**: Celestial Slate (`#08080c`)
+- **Accents**: Divine Blue (`#70a1ff`) & Shattered Red (`#ff4757`)
+- **Vibe**: Transcendent beauty meeting chaotic power.
+
+### 🔘 Null Existence (Monochromatic)
+A pure, grayscale experience for the minimalist purist.
+- **Palette**: Black, White, and everything in between.
+- **Mechanism**: Uses Bold/Italic font styles for distinction instead of color.
+- **Vibe**: Zero noise. Total Zen.
 
 ---
 
 ## 🌒 Features 🌘
 
-- **Minimalist Palette**: Focus on what matters without visual clutter.
-- **High Contrast**: Designed for long coding sessions with a deep black background (`#0d0d0d`).
-- **Accentuated Syntax**: Subtle yet distinct colors for better code structure visibility.
-- **Terminal Redesign**: A cohesive terminal experience matching the core aesthetic.
-- **Customized UI**: Tabs, sidebar, and status bar all refined for a premium feel.
+- **Minimalist Design**: Zero visual clutter, just pure code.
+- **Total Immersion**: Themes apply to the entire UI—Sidebar, Tabs, Status Bar, and Activity Bar.
+- **Themed Terminals**: Each theme includes a custom-matched ANSI color palette for the integrated terminal.
+- **Eye Strain Optimized**: Carefully balanced contrasts for long coding sessions.
 
-## ⛩️ Color Palette ⛩️
-
-| Element | Hex Code | Description |
-| :--- | :--- | :--- |
-| **Background** | `#0d0d0d` | Deep void of the shrine. |
-| **Foreground** | `#f0f0f0` | Crisp white text. |
-| **Active Accent** | `#ffffff` | Stark highlights and focus states. |
-| **Borders** | `#1e1e1e` | Sharp, subtle structure. |
-| **Syntax Red** | `#a65a5a` | Cursed energy (tags, deletions). |
-| **Syntax Purple** | `#9c7eba` | Domain control (keywords). |
+---
 
 ## 📦 Installation 📦
 
 1. Open **Visual Studio Code**.
-2. Go to **Extensions** (`Ctrl+Shift+X`).
-3. Search for `Malevolent Shrine - Habrmnc`.
+2. Press `Ctrl+Shift+X` to open the **Extensions** menu.
+3. Search for **Habrmnc Theme**.
 4. Click **Install**.
-5. Once installed, search for 'Color Theme' (`Ctrl+K Ctrl+T`) and select **Malevolent Shrine**.
-
-## 🛠️ Recommendations 🛠️
-
-For the best experience, we recommend using a clean, modern font such as:
-- **JetBrains Mono**
-- **Cascadia Code**
-- **Outfit** (for UI)
+5. Press `Ctrl+K Ctrl+T` and choose your favorite domain!
 
 ---
 
