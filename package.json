@@ -10,7 +10,7 @@
     "url": "https://github.com/Habeebu-Rahman-CA/habrmnc-theme"
   },
   "engines": {
-    "vscode": "^1.110.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
