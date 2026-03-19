@@ -4,6 +4,11 @@
   "description": "ha ha ha yowaimo!",
   "publisher": "Habeebu Rahman CA",
   "version": "0.0.1",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Habeebu-Rahman-CA/habrmnc-theme"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
